@@ -106,7 +106,7 @@ def check_sudoku(sudoku_list, p=0):
         print('✔ Slices are OK, too')
         ok_cn += 1
     else:
-        print('❌ but not sublists')
+        print('❌ but not slices')
         ok_cn -= 1
 
     if ok_cn:
