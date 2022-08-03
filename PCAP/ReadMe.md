@@ -4,4 +4,4 @@
 * https://pythoninstitute.org/pcap
 * https://edube.org/study/pe2
 
-Solved lab from preparation materials
+Solved labs from preparation materials
