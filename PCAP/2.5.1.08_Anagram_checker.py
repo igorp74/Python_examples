@@ -16,9 +16,9 @@ else:
     print('It is not an anagram')
 
 
-# Alternative way - using dictionary for counting the letters frequency in string
+# Alternative way - using dictionary for counting the letter frequencies in string
 # This way I don't need to use sorted() function
-#-------------------------------------------------------------
+#---------------------------------------------------------------------------------
 
 def count_dict(str):
     dc = {}
